@@ -71,7 +71,6 @@
   <div class="container">
     <!-- Bagian Header -->
     <div class="header">
-      <img src="foto.jpg" alt="Foto Profil">
       <h1>Diandra Julianoval</h1>
       <p><b>NPM:</b> 241171001 | <b>Jenis Kelamin:</b> Laki-Laki</p>
       <p><b>TTL:</b> Palu, 12 Juli 2006</p>
