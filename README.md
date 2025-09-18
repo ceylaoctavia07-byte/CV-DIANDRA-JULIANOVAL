@@ -78,7 +78,6 @@
       <p><b>TTL:</b> Palu, 12 Juli 2006</p>
       <p><b>IPK Khayalan:</b> 4.00</p>
     </div>
-
     <!-- Konten CV -->
     <div class="content">
       <h2>Riwayat Pendidikan</h2>
@@ -88,20 +87,17 @@
         <li>SMA Negeri 1 Palu (2021 - 2024)</li>
         <li>Universitas  Widyatama - Sistem Informasi (2024 - Sekarang)</li>
       </ul>
-
       <h2>Keahlian</h2>
       <ul>
         <li>Microsoft Office (Word, Excel, PowerPoint)</li>
         <li>Desain Grafis (Canva, Photoshop dasar)</li>
         <li>Public Speaking</li>
       </ul>
-
       <h2>Informasi Lain</h2>
       <p>Asal Palu Sulawesi Tengah, hobi olahraga dan mendengarkan musik. 
          Suka belajar hal baru, mampu bekerja sama dalam tim, 
          dan aktif di organisasi kampus.</p>
     </div>
-
     <!-- Footer -->
     <div class="footer">
       © 2025 - CV Digital Diandra Julianoval
